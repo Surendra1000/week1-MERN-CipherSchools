@@ -1,10 +1,10 @@
-git config --global user.name "Rishitha"
+git config --global user.name "Surendra"
 
-git config --global user.email "rishithapaladugu9@gmail.com"
+git config --global user.email "surendrajajra1@gmail.com"
 
 git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/chowdary2004/week1-MERN-CipherSchools.git
+git remote add origin https://github.com/Surendra1000/week1-MERN-CipherSchools.git
 git push -u origin main
